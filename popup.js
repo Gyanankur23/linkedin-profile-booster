@@ -1,5 +1,5 @@
 // Paste your free API key from Google AI Studio here
-const GEMINI_API_KEY = "AIzaSyDMzs94ZSM1ieHLISQG53VdnQTvESf-SH8"; 
+const GEMINI_API_KEY = ""; 
 
 // Your father's UPI handle hardcoded securely
 const FATHER_UPI_ID = "pratim.baruah6@okhdfcbank"; 
